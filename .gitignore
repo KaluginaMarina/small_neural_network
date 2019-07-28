@@ -1,3 +1,8 @@
 *
 !approximation.ipynb
 !.gitignore
+!input/
+!input/x_train_file
+!input/y_train_file
+!input/x_validation_file
+!input/y_validation_file
